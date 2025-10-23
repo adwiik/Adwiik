@@ -1,3 +1,9 @@
+#ADWIIK_B0SS_TOOL_SYSTEM
+
+
+
+
+
 apt update
 apt upgrade
 pkg install python
